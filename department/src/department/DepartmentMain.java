@@ -13,7 +13,7 @@ import model.Employee;
 
 /**
  *
- * @author jjsoc
+ * @author 
  */
 public class DepartmentMain {
 
