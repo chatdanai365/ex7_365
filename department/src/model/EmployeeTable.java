@@ -16,7 +16,7 @@ import javax.persistence.Query;
 
 /**
  *
- * @author user
+ * @author jakso
  */
 public class EmployeeTable {
         
