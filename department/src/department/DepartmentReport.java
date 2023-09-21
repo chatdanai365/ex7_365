@@ -15,7 +15,7 @@ import model.EmployeeTable;
 
 /**
  *
- * @author jjsoc
+ * @author jakso
  */
 public class DepartmentReport {
 
